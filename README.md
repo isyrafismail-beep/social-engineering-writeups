@@ -1,2 +1,1 @@
-# social-engineering-writeups
-Social Engineering Write-ups (Phishing Analysis)
+Add ParrotPost phishing analysis write-up
